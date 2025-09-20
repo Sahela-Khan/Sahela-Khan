@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Skills & Tools  
-- Programming: Python 
+- Programming: Python | PHP 
 - Web: HTML | CSS  
 - Tools: Git | GitHub | VS Code  
 
