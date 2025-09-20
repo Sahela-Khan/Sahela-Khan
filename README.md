@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Sahela Khan  
 
-<!--
-**Sahela-Khan/Sahela-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate Student at **BRAC University**  
+💡 Passionate about learning, coding, and exploring new technologies  
+🌱 Currently improving my skills in **Python**  
+⚡ Love to work on projects that combine creativity and logic  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools  
+- Programming: Python 
+- Web: HTML | CSS  
+- Tools: Git | GitHub | VS Code  
+
+---
+
+## 📊 GitHub Stats  
+![Sahela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahela-Khan&show_icons=true&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+- 📧 Email: sahela.khan.2109@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/sahela-khan-retu-996273351/  
+
+---
+✨ *“Code. Learn. Grow.”*  
+
